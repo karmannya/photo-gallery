@@ -1,0 +1,16 @@
+.birds {
+    width: 200px;
+    height: 200px;
+}
+body {
+    text-align: center;
+    background-color: azure;
+}
+ #myCarousel img {
+    width: 200px;
+    height: 200px;
+}
+#myCarousel {
+    background-color: cornsilk;
+    
+}
